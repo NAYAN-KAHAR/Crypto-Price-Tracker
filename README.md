@@ -1,8 +1,15 @@
-# React + Vite
+# Crypto Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Crypto Price Tracker is a React application that allows users to search and view real-time cryptocurrency prices, market capitalization, volume, and supply information.
 
-Currently, two official plugins are available:
+## Features
+- View a list of cryptocurrencies with rank, icon, name, symbol, price, market cap, volume, and available supply.
+- Search for cryptocurrencies by name.
+- Click on the cryptocurrency icon to explore more details on an external website.
+- Responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Axios for API requests
+- CSS for styling
+- Cryptocurrency API for fetching data
